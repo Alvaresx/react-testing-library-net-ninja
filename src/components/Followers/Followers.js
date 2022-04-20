@@ -6,7 +6,7 @@ import "./Followers.css"
 export default function Followers() {
     return (
         <div className="followers">
-            <Header title="Followers" />
+            <Header title="Seguidores" />
             <FollowersList />
         </div>
     )

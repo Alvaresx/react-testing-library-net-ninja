@@ -28,13 +28,13 @@ function AddInput({
                 className="input" 
                 value={todo} 
                 onChange={(e) => setTodo(e.target.value)}
-                placeholder="Add a new task here..."
+                placeholder="Adicione uma tarefa aqui..."
             />
             <button 
                 className="add-btn"
                 onClick={addTodo}
             >
-                Add
+                Adicionar
             </button>
         </div>
     )
