@@ -1,4 +1,4 @@
-# 🧪 React Testing Library - Tutorial
+# 🐙 React Testing Library - Tutorial
 
 ## 📃 Sobre o projeto
 
